@@ -1,4 +1,3 @@
-/* eslint-disable no-unused-vars */
 import React from "react";
 import Image1 from "../../assets/category/earphone.png";
 import Image2 from "../../assets/category/watch.png";
